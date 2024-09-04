@@ -1,0 +1,25 @@
+﻿27 Aug 2024 | Secure by Design Dashboard
+Attendees: Andrew Ledingham Kafui Mbrou Berni Headd-Williams Walter Glennie
+
+
+Notes
+* Audience - we will collect the data from the check ins 
+* Not going to show the departments each others placings. 
+* CDDO Leadership David Knott and Martin Bowyer would be interested in the whole picture
+* Spend Controls - Dept seems to be a free entry field for submitters to put in what they want so email address is the only reliable way at the moment
+* AL: Attaching the dept name to the email is something that Andrew can set up automatically. 
+* AL: What are the blanks? WG: Where they haven’t returned. Is it useful to show the blanks? For the confidence it is useful in seeing that. SHould change in Sept 2024 when this becomes mandatory.
+* AL: Pull out the return rate across depts as a visual and also the breakdown of the yes/no to show them how many are meeting the SbD. Maybe some sort of changeover time too - WG: yes
+* No Tableau - use Google for Services stuff but not worth investing at the moment
+* Other data - include Cost / End Date 
+* Phase labels - what do the blanks mean? To be discussed with Spend- AL wil look at grouping them
+* Will look at Spend, delivery phase and yes/no
+* Does the summary slide need the All Depts info? WG has given graphs a go. 
+* 
+
+Action items
+* Action AL attaching the dept name to the email domain automatically. 
+* AL: Response rate and breakdown to be broken out. 
+* What do the phase labels mean? 
+* Discuss with FT on Confidence - how frequently we ask this - what is the interesting data point. What is the audience? How do we escalate? 
+* Andrew will look  at this on Thursday
