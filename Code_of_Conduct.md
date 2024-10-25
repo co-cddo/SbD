@@ -1,4 +1,4 @@
-# Code of conduct for `ndx`
+# Code of conduct for `SbD Artefact Library`
 
 Contributors to repositories hosted in `co-cddo` are expected to
 follow the Contributor Covenant Code of
