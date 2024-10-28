@@ -23,17 +23,17 @@ The following artefacts can be found in the library. You can also request for a 
 
 | Artefact Category| Description | 
 | :---         | :---           | 
-| Best Practice Guidance| Widely accepted guidelines or standards that represent the most efficient and effective way to accomplish a task or achieve a specific outcome. | 
-| Checklists| Lists of items or tasks to be completed, often used to ensure that all necessary steps in a process are followed. | 
-| Security Blueprints| High-level, strategic framework that guides the design, implementation and management of security measures within an organisation. It provides a high-level overview of security goals, principles, and architectures. | 
-| Security Designs| High-level considerations / decisions about how security will be integrated into the entire system. This includes the selection of appropriate security controls (like firewalls, encryption, and authentication systems), how these controls interact, and how they fit into the overall system architecture. | 
+| Best Practice Guidance| Actionable advice based on industry standards and proven methodologies to help teams implement security effectively to accomplish a task or achieve a specific outcome. | 
+| Checklists| Structured lists of key tasks or requirements designed to guide teams through essential security steps. | 
+| Security Blueprints| High-level and strategic frameworks that provide pre-defined solutions for implementing security controls within applications and infrastructure. These blueprints are designed to be reusable and adaptable, helping teams integrate secure practices efficiently and consistently. | 
+| Security Designs| Detailed architectural diagrams and documentation that outline how to integrate security measures within a system's overall structure. Security designs focus on proactively embedding security controls at each layer of the system, ensuring that security is foundational rather than an afterthought.  Designs are more concrete and focus on the specific implementation of security measures, including the configuration and integration of various components. | 
 | Security Documentation| Written materials related to the security measures, policies, procedures, and protocols of a system or organisation. | 
-| Security Patterns| Reusable solution to a common security problem within a specific context in software or system design. Security patterns are like design patterns, providing developers with tested solutions for specific security challenges they might face during software development. They are typically focused on a single aspect of security and are detailed. | 
-| Security Requirements| Criteria that a system must meet to ensure its protection from threats and vulnerabilities. | 
+| Security Patterns| Reusable solution to a common security problem within a specific context in software or system design. Security patterns are like design patterns, providing developers with tested solutions for specific security challenges they might face during software development. They are typically focused on a single aspect of security and are detailed. Patterns are typically more abstract and focus on the relationship between different components or processes in a security context. | 
+| Security Requirements| Specific and measurable criteria that a system or application must meet to be considered secure. These requirements outline the necessary security controls and protocols to protect against threats and vulnerabilities, ensuring that the system aligns with organisational policies and industry standards. | 
 | Software Code| Instructions and statements in a programming language that define the functionality and behaviour of a software application. | 
 | Templates| Pre-formatted documents or forms that provide a consistent structure for capturing and presenting information.| 
-| Threat Models| Representations of potential security threats and vulnerabilities, used to identify and prioritise risks to a system. | 
-| Use Cases| Scenarios in which a system or application is used, detailing the interactions between users and the system to achieve a particular goal. | 
+| Threat Models| Comprehensive view of  security threats and vulnerabilities, used to identify and prioritise potential security threats and vulnerabilities within a system, application, or network. | 
+| Use Cases| Scenario-based descriptions of how a system or application is expected to perform in various real-world situations, highlighting specific actions, interactions, or workflows. Use cases help identify security needs by demonstrating how users (or other systems) interact with a system, providing insight into required security controls and potential vulnerabilities. | 
 
 
 ### Best Practice Guidance
@@ -92,3 +92,7 @@ Finally, the artefact must be formally approved by the designated Approver befor
 ### Publish (Live)
 This sub-process outlines the steps required for publishing the artefact in the library, specifically into the main branch for broad access and use and an announcement is made to the community.
 Throughout this process, the Collaborator ensures that the artefact is properly categorised, tagged with relevant metadata (e.g., related to specific platforms like AWS, security standards, or frameworks), and that its documentation is fully up-to-date. The Maintainer may also assist in ongoing management of the artefact, ensuring it remains available and that any future updates or revisions are promptly applied.
+
+
+![Screenshot of the process map.](https://github.com/co-cddo/SbD/blob/Main/AL%20Flow.png)
+
