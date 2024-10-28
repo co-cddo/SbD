@@ -3,6 +3,9 @@
 > [!IMPORTANT]
 > Always remember to test code related artefacts before deploying into a production environment.
 
+> [!NOTE]
+> This library is currently in an alpha phase, contributions from UK government security architects are very welcome.
+
 ## Background
 The Secure by Design (SbD) Artefact Library provides a centralised repository of proven solutions to common cyber security problems that support the implementation of SbD principles across government. The library is hosted on Github and provides essential resources for:
 Guidance: Enabling teams, regardless of their cyber expertise, to embed security into project delivery by providing practical tools and frameworks.
