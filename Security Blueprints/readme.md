@@ -1,4 +1,7 @@
-### This page provides an overview on available Security Blueprint related artefacts
+# Security Blueprints
+
+### Security Blueprints are high-level and strategic frameworks that provide pre-defined solutions for implementing security controls within applications and infrastructure. These blueprints are designed to be reusable and adaptable, helping teams integrate secure practices efficiently and consistently.
+
 
 ## The available artefacts are
 ### 1. AWS Well-Architected Framework
