@@ -1,4 +1,4 @@
-# Artefact Library Catalogue
+# Library Catalogue
 
 The table below contains a list of the artefacts that are in the library
 
