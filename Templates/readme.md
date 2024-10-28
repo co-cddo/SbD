@@ -1,4 +1,6 @@
-### This page provides an overview on available Template related artefacts
+# Templates
+
+### Pre-formatted documents or forms that provide a consistent structure for capturing and presenting information.
 
 ## The available artefacts are
 ### 1. A Risk Register Template
