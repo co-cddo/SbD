@@ -8,4 +8,5 @@
 ### 2. AWS Security Reference Architecture
 ### 3. Guidance on protecting government data using Microsoft Purview
 <a href="https://docs.aws.amazon.com/en_us/wellarchitected/2022-03-31/framework/security.html" target="_blank">AWS Well-Architected Framework</a>
+ 
 <a href="google.com" target="_blank">Opens in new tab</a>
