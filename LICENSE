@@ -8,13 +8,29 @@ including without limitation the rights to use, copy, modify, merge, publish, di
 and/or sell copies of the Library, and to permit persons to whom the Library is furnished to do so,
 subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**Attribution:** The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Library.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Content Freshness: While efforts have been made to ensure the artefacts are reliable and
+informative, the Library is provided “as is” without warranty of any kind. The maintainers
+of the Library do not guarantee that all artefacts reflect the latest available updates.
+Users are encouraged to verify information independently, as updates to the Library may not
+be immediate or comprehensive.
+
+Accuracy Disclaimer: While we strive to ensure the accuracy and relevance of the artefacts
+provided in this repository, they are provided "as is" without warranty of any kind, express
+or implied, including but not limited to the warranties of merchantability, fitness for a
+particular purpose, or non-infringement.
+
+Use of these materials is at your own discretion and risk. It is recommended that you review
+and test these resources in the context of your specific environment and consult with a 
+qualified professional if necessary. The authors are not liable for any damages, security issues,
+or risks arising from the use, modification, or implementation of these materials.
+
+Disclaimer of Warranty: THE LIBRARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN 
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+LIBRARY OR THE USE OR OTHER DEALINGS IN THE LIBRARY.
+
