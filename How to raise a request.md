@@ -2,7 +2,7 @@
 
 The process of creating a new artefact in the SbD artefact library, or updating an existing one starts with a request from a user.  The request can be made through the GitHub repository.
 
-Start:
+Follow the steps below to submit a new request:
 
 **Step 1** Click on "Issues" menu option to open a new issue.
 
