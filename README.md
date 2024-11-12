@@ -1,7 +1,7 @@
 # Secure by Design Artefact Library
 
 > [!IMPORTANT]
-> Always remember to test code related artefacts before deploying into a production environment.
+> Do not enter any secret information such as passwords or PII into the chat or publicly available artefacts.
 
 > [!NOTE]
 > This library is currently in an alpha phase, contributions from UK government security architects are very welcome.
