@@ -1,10 +1,10 @@
 # Secure by Design Artefact Library
 
 > [!IMPORTANT]
-> Do not enter any secret information such as passwords or PII into the chat or publicly available artefacts.
+> Do not enter any sensitive or secret information such as passwords or PII into the chat or publicly available artefacts. This library is publically-visible.
 
 > [!NOTE]
-> This library is currently in an alpha phase, contributions from UK government security architects are very welcome.
+> This library is currently in an alpha phase, contributions from UK government security architects are very welcome - please reach out to the Secure By Design security architecture team!
 
 ## Background
 The Secure by Design (SbD) Artefact Library provides a centralised repository of proven solutions to common cyber security problems that support the implementation of SbD principles across government. The library is hosted on Github and provides essential resources for:
