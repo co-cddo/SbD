@@ -1,8 +1,6 @@
 # Code of conduct for `SbD Artefact Library`
 
-Contributors to repositories hosted in `co-cddo` are expected to
-follow the Contributor Covenant Code of
-Conduct, and those working within Government are also expected to follow the Civil Service Code
+Contributors to repositories hosted in our github are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Civil Service Code
 
 ## Civil Service Code
 
@@ -12,9 +10,9 @@ The [Civil Service Code](https://www.gov.uk/government/publications/civil-servic
 
 > Note:
 >
-> - where the code of conduct says "project" we mean CDDO, `SbD Artefact Library` and all repositories hosted within it.
+> - where the code of conduct says "project" we mean GDS, `SbD Artefact Library`, and all repositories hosted within it.
 > - where the code of conduct says "maintainer" we mean `SbD Artefact Library` organisation owners
-> - where the code of conduct says "leadership" we mean both `SbD Artefact Library` organisation owners and other senior leadership within CDDO
+> - where the code of conduct says "leadership" we mean both `SbD Artefact Library` organisation owners and other senior leadership within GDS.
 
 ### Our Pledge
 
