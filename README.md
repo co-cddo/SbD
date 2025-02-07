@@ -1,52 +1,63 @@
 # Secure by Design Artefact Library
 
 > [!IMPORTANT]
-> Do not enter any sensitive or secret information such as passwords or PII into the chat or publicly available artefacts. This library is publically-visible.
+> Do not enter any sensitive or secret information such as passwords or PII into the chat or publicly available artefacts. This library is publicly visible.
 
 > [!NOTE]
-> This library is currently in an alpha phase, contributions from UK government security architects are very welcome - please reach out to the Secure By Design security architecture team!
+> This library is currently in alpha phase. Contributions from UK government security architects are very welcome - please reach out to the Secure by Design security architecture team.
 
 ## Background
-The Secure by Design (SbD) Artefact Library provides a centralised repository of proven solutions to common cyber security problems that support the implementation of SbD principles across government. The library is hosted on Github and provides essential resources for:
+The Secure by Design (SbD) Artefact Library provides a centralised repository of proven solutions to common cyber security problems that support the implementation of SbD principles across government. The library is hosted on GitHub and provides essential resources for:
 
 **Guidance:** Enabling teams, regardless of their cyber expertise, to embed security into project delivery by providing practical tools and frameworks.
 
 **Standardisation:** Offering consistent approaches and best practices for addressing security risks across various departments.
 
 **Efficiency:** Reducing duplication by reusing existing security solutions and materials.
-It is an open repository, accessible to government, vendors and private sector. The resources are aimed mainly at technical and security architects, developers, DevSecOps, but could be useful to anyone in the digital delivery teams.
+It is an open repository, accessible to government, vendors and private sector. The resources are aimed mainly at technical and security architects, developers and DevSecOps, but could be useful to anyone in the digital delivery teams.
 
 ## Purpose
 
-The purpose of this document is to outline the management processes of the Secure by Design artefacts library hosted on the Cabinet Office Github. This includes key steps in relation to content management, triage and approvals, feedback and improvements, monitoring & reporting, and user access and permissions.
-Types of artefacts
+The purpose of this document is to outline the management processes of the Secure by Design artefacts library hosted on the Cabinet Office GitHub. This includes key steps relating to:
 
-The table below provides a brief description of the various artefact types available for access or request through the artefact library. This list will be revisited and updated on regular intervals. 
+- content management
+- triage and approvals
+- feedback and improvements
+- monitoring and reporting
+- user access and permissions
 
 ## Type of Available Artefacts
-The following artefacts can be found in the library. You can also request for a new artefact to be created, if you cannot find what you need.
+
+The table below describes the artefact types you can access or request through the artefact library. We'll revisit and update this list regularly. 
+
+If you cannot find what you need, you can ask for a new artefact to be created.
 
 
-| Artefact Category| Description | 
+| Artefact category| Description | 
 | :---         | :---           | 
-| Best Practice Guidance| Actionable advice based on industry standards and proven methodologies to help teams implement security effectively to accomplish a task or achieve a specific outcome. | 
+| Best practice guidance| Actionable advice based on industry standards and proven methodologies. This helps teams implement security effectively to accomplish a task or achieve a specific outcome. | 
 | Checklists| Structured lists of key tasks or requirements designed to guide teams through essential security steps. | 
-| Security Blueprints| High-level and strategic frameworks that provide pre-defined solutions for implementing security controls within applications and infrastructure. These blueprints are designed to be reusable and adaptable, helping teams integrate secure practices efficiently and consistently. | 
-| Security Designs| Detailed architectural diagrams and documentation that outline how to integrate security measures within a system's overall structure. Security designs focus on proactively embedding security controls at each layer of the system, ensuring that security is foundational rather than an afterthought.  Designs are more concrete and focus on the specific implementation of security measures, including the configuration and integration of various components. | 
-| Security Documentation| Written materials related to the security measures, policies, procedures, and protocols of a system or organisation. | 
-| Security Patterns| Reusable solution to a common security problem within a specific context in software or system design. Security patterns are like design patterns, providing developers with tested solutions for specific security challenges they might face during software development. They are typically focused on a single aspect of security and are detailed. Patterns are typically more abstract and focus on the relationship between different components or processes in a security context. | 
-| Security Requirements| Specific and measurable criteria that a system or application must meet to be considered secure. These requirements outline the necessary security controls and protocols to protect against threats and vulnerabilities, ensuring that the system aligns with organisational policies and industry standards. | 
-| Software Code| Instructions and statements in a programming language that define the functionality and behaviour of a software application. | 
+| Security blueprints| High-level and strategic frameworks that provide pre-defined solutions for implementing security controls within applications and infrastructure. These blueprints are designed to be reusable and adaptable, helping teams integrate secure practices efficiently and consistently. | 
+| Security designs| Detailed architectural diagrams and documentation that outline how to integrate security measures within a system's overall structure. Security designs focus on proactively embedding security controls at each layer of the system. This helps make sure security is foundational rather than an afterthought. Designs are more concrete and focus on the specific implementation of security measures, including the configuration and integration of various components. | 
+| Security documentation| Written materials related to the security measures, policies, procedures, and protocols of a system or organisation. | 
+| Security patterns| Reusable solution to a common security problem within a specific context in software or system design. Security patterns are comparable to design patterns. They provide developers with validated solutions for specific security challenges they might face during software development. They typically focus on a single aspect of security and the relationship between different components or processes in a security context. | 
+| Security requirements| Specific and measurable criteria that a system or application must meet to be considered secure. These requirements outline the necessary security controls and protocols to protect against threats and vulnerabilities, ensuring that the system aligns with organisational policies and industry standards. | 
+| Software code| Instructions and statements in a programming language that define the functionality and behaviour of a software application. | 
 | Templates| Pre-formatted documents or forms that provide a consistent structure for capturing and presenting information.| 
-| Threat Models| Comprehensive view of  security threats and vulnerabilities, used to identify and prioritise potential security threats and vulnerabilities within a system, application, or network. | 
-| Use Cases| Scenario-based descriptions of how a system or application is expected to perform in various real-world situations, highlighting specific actions, interactions, or workflows. Use cases help identify security needs by demonstrating how users (or other systems) interact with a system, providing insight into required security controls and potential vulnerabilities. | 
+| Threat models| Comprehensive views of  security threats and vulnerabilities, used to identify and prioritise potential security threats and vulnerabilities within a system, application or network. | 
+| Use cases| Scenario-based descriptions of how a system or application is expected to perform in various real-world situations, highlighting specific actions, interactions or workflows. Use cases help identify security needs by demonstrating how users (or other systems) interact with a system, providing insight into required security controls and potential vulnerabilities. | 
 
 
 
 ## Artefact development process 
 
-The following sub-processes detail the end-to-end process for the development of an artefact in GitHub, showcasing the various stages from request to publication. 
+To create a new artefact or modify an existing one within the GitHub repository, we follow 5 steps: 
 
+- request
+- review
+- create or change
+- integrate
+- publish.
 
 ### Request 
 This sub-process outlines the steps for submitting a request to either create a new artefact or modify an existing one within the GitHub repository. 
