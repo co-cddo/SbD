@@ -26,7 +26,7 @@ The purpose of this document is to outline the management processes of the Secur
 - monitoring and reporting
 - user access and permissions
 
-## Type of Available Artefacts
+## Type of available artefacts
 
 The table below describes the artefact types you can access or request through the artefact library. We'll revisit and update this list regularly. 
 
@@ -57,39 +57,50 @@ To create a new artefact or modify an existing one within the GitHub repository,
 - review
 - create or change
 - integrate
-- publish.
+- publish
 
 ### Request 
-This sub-process outlines the steps for submitting a request to either create a new artefact or modify an existing one within the GitHub repository. 
-The process begins when a Requester identifies the need for a new artefact or a change to an existing artefact and creates a new 'issue' on GitHub. The Requester uses the appropriate template, specific to the type of artefact being requested, to ensure all necessary details are captured. This step ensures a standardised and efficient way to manage requests, enabling the repository maintainers and approvers to effectively review and prioritise the work. 
+The process begins when a Requester identifies the need for a new artefact or a change to an existing artefact and creates a new 'issue' on GitHub. The Requester uses a template that's appropriate to the type of artefact being requested. This ensures all necessary details are captured. 
+
+This step means we have a standardised and efficient way to manage requests. It helps the repository maintainers and approvers effectively review and prioritise the work. 
 
 ### Review 
-This sub-process includes the steps for reviewing and approving new requests submitted via GitHub. 
-Once a request has been initiated and submitted as a GitHub issue, a notification is automatically sent to users that are ‘watching’ the SbD artefact library repository. This will include all SbD team members that have a responsibility of Collaborator in the library. The notification will trigger the review process and the issue will be assigned to a Triager. The Requester will receive an acknowledgment of their submission within 3 working days, and a final decision—whether the request is accepted or rejected—within 10 working days.
+Once a request has been initiated and submitted as a GitHub issue, users who are ‘watching’ the SbD artefact library repository receive a notification. This includes all SbD team members who are Collaborators in the library. The notification triggers the review process and the issue will be assigned to a Triager. 
+
+The Requester will receive an acknowledgment of their submission within 3 working days. They'll receive a final decision, whether the request is accepted or rejected, within 10 working days.
+
 During the review, a Triager evaluates the request based on predefined criteria and procedures to determine whether the artefact should be created or changed. 
-The process may also involve tagging relevant Contributors for feedback and suggestions, ensuring a collaborative and comprehensive review before final approval. 
+The process may also involve tagging relevant Contributors for feedback and suggestions. This ensures a collaborative and comprehensive review before final approval. 
+
 Following the Triager's assessment, an Approver makes the final decision on whether to move forward with the creation or modification of the artefact.
 
-### Create (or change)
-This sub-process outlines the steps involved in the creation or modification of artefacts.
+### Create or change
 Once a request has been reviewed and approved, the Triager assigns the responsibility for developing or amending the artefact to a Contributor. The Contributors develop the artefact specification and are tasked with drafting or updating the artefact based on the specific requirements of the request. 
-Following the initial creation or amendment, all artefacts must undergo a peer review process to ensure quality, accuracy, and compliance with agreed document specification / standards. During this review, Collaborators facilitate peer feedback, ensuring that the artefact is refined and aligned with best practices.
 
-### Integrate (Beta)
-This sub-process outlines the steps required for integrating the artefact into the artefact library once it has passed through community peer review, testing, and final approval. 
-The first step is the formal announcement of the artefact to the community for review. The Collaborator makes the announcement. This provides stakeholders with visibility of the newly added artefact and invites further feedback. 
-Next, feedback is gathered from the community, which may involve additional refinement or updates to the artefact to ensure it continues to meet the needs of the users. 
-After incorporating any necessary adjustments, the artefact is tagged with appropriate metadata, such as platform-specific tags (e.g., AWS, Azure) or cybersecurity frameworks (e.g. CAF, NIST, ISO), allowing users to quickly find artefacts relevant to their requirements. The Collaborator plays a critical role in facilitating these tasks, ensuring that all relevant documentation and release notes are updated accordingly. 
-Finally, the artefact must be formally approved by the designated Approver before it can be published in the library and made available for use by the wider community.
+Following the initial creation or amendment, all artefacts must undergo a peer review process to ensure quality, accuracy, and compliance with agreed document specification / standards. During this review, Collaborators invite peer feedback, ensuring that the artefact is refined and aligned with best practices.
+
+### Integrate (beta)
+Once the artefact has passed through community peer review, testing and final approval, it can be integrated into the library. 
+
+Firstly, the Collaborator will notify the community that the artefact is ready for review. This gives stakeholders visibility of the newly-added artefact and invites further feedback. 
+
+Next, feedback is gathered from the community, which may involve additional refinement or updates to the artefact to make sure it meets user needs. 
+
+After incorporating any necessary adjustments, the artefact is tagged with appropriate metadata, such as platform-specific tags (for example, AWS or Azure) or cybersecurity frameworks (for example, CAF, NIST or ISO), allowing users to quickly find relevant artefacts. 
+
+The Collaborator plays a critical role in these tasks, ensuring that all relevant documentation and release notes are updated accordingly. 
+
+Lastly, the artefact must be formally approved by the designated Approver. Once that's happened, it can be published in the library and made available for use by the wider community.
 
 
-### Publish (Live)
-This sub-process outlines the steps required for publishing the artefact in the library, specifically into the main branch for broad access and use and an announcement is made to the community.
-Throughout this process, the Collaborator ensures that the artefact is properly categorised, tagged with relevant metadata (e.g., related to specific platforms like AWS, security standards, or frameworks), and that its documentation is fully up-to-date. The Maintainer may also assist in ongoing management of the artefact, ensuring it remains available and that any future updates or revisions are promptly applied.
+### Publish (live)
+Finally, the artefact will be published into the main branch for broad access and use, and an announcement is made to the community.
+
+Throughout this process, the Collaborator makes sure that the artefact is properly categorised, tagged with relevant metadata (for example, related to specific platforms like AWS, security standards, or frameworks), and that its documentation is fully up-to-date. The Maintainer may also assist in ongoing management of the artefact, ensuring it remains available and that any future updates or revisions are promptly applied.
 
 
 
-**The following flowchart shows the key steps of the artefact creation process**
+**This flowchart shows the key steps of the artefact creation process.**
 
 ![Screenshot of the process map.](https://github.com/co-cddo/SbD/blob/Main/AL%20Flow.png)
 
