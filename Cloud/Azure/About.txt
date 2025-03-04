@@ -1,0 +1,1 @@
+SbD Artefacts Library: Folder for the Azure cloud related artefacts. 
