@@ -1,0 +1,1 @@
+SbD Artefacts Library:  Folder for the Google Cloud related artefacts.
