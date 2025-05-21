@@ -1,0 +1,11 @@
+Best Practice Guidance Repository - Folder for the below artefacts 
+
+
+Best Practice Guidance
+Checklists
+Security Blueprints
+Security Designs
+Security Patterns
+Security Documentation
+Security Requirements
+Security Templates
