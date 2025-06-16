@@ -30,8 +30,7 @@ The purpose of this document is to outline the management processes of the Secur
 
 The table below describes the artefact types you can access or request through the artefact library. We'll revisit and update this list regularly. 
 
-If you cannot find what you need, you can ask for a new artefact to be created.
-
+If you cannot find what you need, you can ask for a new artefact to be created. You can also contact the Secure By Design team at xgov-SecureByDesign@dsit.gov.uk
 
 | Artefact category| Description | 
 | :---         | :---           | 
