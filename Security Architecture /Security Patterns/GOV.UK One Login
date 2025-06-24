@@ -1,0 +1,9 @@
+Pattern to sign in users of your government service / prove user's identity.
+See https://docs.sign-in.service.gov.uk/
+This technical documentation gives you information on how to:
+plan the functionality your service needs
+register your service with GOV.UK One Login
+integrate with GOV.UK One Login to authenticate users and prove their identity
+configure your service for production
+You can read further documentation about how GOV.UK One Login works.
+Contact with any questions on the #govuk-one-login Slack channel.
