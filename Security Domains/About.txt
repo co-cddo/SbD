@@ -1,1 +1,0 @@
-SbD Artefacts Library - SbD-development/Security Domains - Folder for the Security Domain Specific documentation.
